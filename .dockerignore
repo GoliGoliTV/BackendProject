@@ -1,0 +1,28 @@
+# git related
+.git
+.gitignore
+
+# IDE
+.idea
+.vscode
+
+# macOS
+.DS_Store
+
+# docker
+docker*
+DockerFile
+
+# ci
+.travis*
+.drone*
+
+# docs
+docs*
+readme.md
+README.md
+
+# runtime
+logs*
+tests*
+vendor*
